@@ -7,7 +7,7 @@
 
 **Turning ideas into code, boring tasks into automation, and bugs into unexpected features.** 🤡
 
-<img src="https://komarev.com/ghpvc/?username=vipxofficial7773-blip&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=VIPXOFFICIAL&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -108,11 +108,11 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vipxofficial7773-blip&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VIPXOFFICIAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vipxofficial7773-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VIPXOFFICIAL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipxofficial7773-blip&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIPXOFFICIAL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -122,7 +122,7 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vipxofficial7773-blip&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=VIPXOFFICIAL&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -132,7 +132,7 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vipxofficial7773-blip&theme=tokyo-night&hide_border=true" alt="Contribution Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIPXOFFICIAL&theme=tokyo-night&hide_border=true" alt="Contribution Activity" />
 
 </div>
 
@@ -160,7 +160,7 @@ while True:
 
 <div align="center">
 
-<a href="https://github.com/vipxofficial7773-blip">
+<a href="https://github.com/VIPXOFFICIAL">
 <img src="https://img.shields.io/badge/GitHub-VIP_X_OFFICIAL-181717?style=for-the-badge&logo=github" />
 </a>
 
