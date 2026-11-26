@@ -1,7 +1,6 @@
-
 <div align="center">
 
-# 👑 VIP_X_OFFICIAL
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090A1A,35:312E81,70:6D28D9,100:06B6D4&stroke=22D3EE&strokeWidth=1&text=👑%20VIP_X_OFFICIAL&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=Developer%20%E2%80%A2%20Automation%20Enthusiast%20%E2%80%A2%20API%20%26%20Bot%20Builder&descAlignY=68&descSize=16&animation=twinkling" alt="Neon 3D profile header" />
 
 ### `Developer` • `Automation Enthusiast` • `API & Bot Builder`
 
@@ -45,15 +44,16 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 
 ## 🧰 What I Build
 
-| Category | My Work |
-|---|---|
-| 🐍 Python Development | Python Scripts, Utilities & Backend Systems |
-| 🌐 Web Development | PHP Websites & Web Applications |
-| ⚡ API Development | REST APIs, Integrations & Data Processing |
-| 🤖 Telegram Bots | Smart Bots, Commands & Automation |
-| ⚙️ Automation | Python Automation & Workflow Tools |
-| 🛠️ Useful Tools | Custom Utilities & Developer Tools |
-| ☁️ Deployment | VPS, Cloud Hosting & Server Management |
+<table>
+<tr><td><b>🧊 BUILD MODULE</b></td><td><b>⚙️ SYSTEMS & SPECIALTIES</b></td></tr>
+<tr><td>🐍 Python Development</td><td>Python Scripts, Utilities & Backend Systems</td></tr>
+<tr><td>🌐 Web Development</td><td>PHP Websites & Web Applications</td></tr>
+<tr><td>⚡ API Development</td><td>REST APIs, Integrations & Data Processing</td></tr>
+<tr><td>🤖 Telegram Bots</td><td>Smart Bots, Commands & Automation</td></tr>
+<tr><td>⚙️ Automation</td><td>Python Automation & Workflow Tools</td></tr>
+<tr><td>🛠️ Useful Tools</td><td>Custom Utilities & Developer Tools</td></tr>
+<tr><td>☁️ Deployment</td><td>VPS, Cloud Hosting & Server Management</td></tr>
+</table>
 
 ---
 
@@ -109,7 +109,6 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=VIPXOFFICIAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VIPXOFFICIAL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIPXOFFICIAL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -175,5 +174,7 @@ while True:
 **BUGS ARE TEMPORARY, BAKCHODI IS PERMANENT!** 🤡🔥
 
 <sub>Made with ❤️, Python, chai, and countless debugging sessions.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:06B6D4,50:6D28D9,100:090A1A&section=footer" alt="Neon layered profile footer" />
 
 </div>
