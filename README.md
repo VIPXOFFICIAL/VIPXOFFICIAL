@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090A1A,35:312E81,70:6D28D9,100:06B6D4&stroke=22D3EE&strokeWidth=1&text=👑%20VIP_X_OFFICIAL&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=Developer%20%E2%80%A2%20Automation%20Enthusiast%20%E2%80%A2%20API%20%26%20Bot%20Builder&descAlignY=68&descSize=16&animation=twinkling" alt="Neon 3D profile header" />
+<img width="100%" src="assets/profile-3d.gif" alt="Animated isometric 3D VIP_X_OFFICIAL profile header" />
 
 ### `Developer` • `Automation Enthusiast` • `API & Bot Builder`
 
@@ -54,6 +54,12 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 <tr><td>🛠️ Useful Tools</td><td>Custom Utilities & Developer Tools</td></tr>
 <tr><td>☁️ Deployment</td><td>VPS, Cloud Hosting & Server Management</td></tr>
 </table>
+
+<div align="center">
+
+<img width="100%" src="assets/profile-3d-cards.gif" alt="Animated 3D cards for Python, web development, APIs and bots, and automation" />
+
+</div>
 
 ---
 
@@ -174,7 +180,5 @@ while True:
 **BUGS ARE TEMPORARY, BAKCHODI IS PERMANENT!** 🤡🔥
 
 <sub>Made with ❤️, Python, chai, and countless debugging sessions.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:06B6D4,50:6D28D9,100:090A1A&section=footer" alt="Neon layered profile footer" />
 
 </div>
