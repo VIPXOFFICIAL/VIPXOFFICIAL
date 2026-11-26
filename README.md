@@ -14,6 +14,8 @@
 
 ## 💫 About Me
 
+<div align="center"><img width="100%" src="assets/about-3d.gif" alt="Smooth looping isometric architecture in the profile color theme" /></div>
+
 HELLO! I'M VIP_X_OFFICIAL 👑
 
 🚀 PASSIONATE DEVELOPER & TECH ENTHUSIAST
@@ -44,6 +46,8 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 
 ## 🧰 What I Build
 
+<div align="center"><img width="100%" src="assets/build-3d.gif" alt="Three connected isometric build modules in a smooth loop" /></div>
+
 <table>
 <tr><td><b>🧊 BUILD MODULE</b></td><td><b>⚙️ SYSTEMS & SPECIALTIES</b></td></tr>
 <tr><td>🐍 Python Development</td><td>Python Scripts, Utilities & Backend Systems</td></tr>
@@ -64,6 +68,8 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 ---
 
 ## 💻 Tech Stack & Tools
+
+<div align="center"><img width="100%" src="assets/tech-stack-3d.gif" alt="Floating isometric tech modules in cyan and violet" /></div>
 
 ### 🚀 Programming Languages
 
@@ -112,6 +118,8 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 
 ## 📊 GitHub Analytics
 
+<div align="center"><img width="100%" src="assets/analytics-3d.gif" alt="Orbiting isometric analytics motif" /></div>
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=VIPXOFFICIAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
@@ -125,6 +133,8 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 
 ## 🏆 GitHub Trophies
 
+<div align="center"><img width="100%" src="assets/trophies-3d.gif" alt="Gold 3D trophy on a layered podium" /></div>
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=VIPXOFFICIAL&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
@@ -135,6 +145,8 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 
 ## 📈 Contribution Activity
 
+<div align="center"><img width="100%" src="assets/contributions-3d.gif" alt="Smoothly illuminated isometric tile field" /></div>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIPXOFFICIAL&theme=tokyo-night&hide_border=true" alt="Contribution Activity" />
@@ -144,6 +156,8 @@ HELLO! I'M VIP_X_OFFICIAL 👑
 ---
 
 ## 🧠 Developer Mindset
+
+<div align="center"><img width="100%" src="assets/mindset-3d.gif" alt="Isometric developer terminal with floating cube" /></div>
 
 ```python
 while True:
